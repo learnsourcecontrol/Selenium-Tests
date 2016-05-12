@@ -15,6 +15,8 @@ namespace SeleniumTests
         {
             // TODO: Add your test code here
             Assert.Pass("Your first passing test");
+            Assert.Pass("Your first passing test");
+
         }
     }
 }

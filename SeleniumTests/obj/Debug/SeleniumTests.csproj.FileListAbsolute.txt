@@ -1,0 +1,7 @@
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.dll
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\bin\Debug\SeleniumTests.pdb
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.dll
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\bin\Debug\nunit.framework.xml
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.csprojResolveAssemblyReference.cache
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.dll
+c:\users\venu\documents\visual studio 2012\Projects\SeleniumTests\SeleniumTests\obj\Debug\SeleniumTests.pdb
